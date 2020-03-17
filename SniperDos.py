@@ -19,11 +19,10 @@ bytes = random._urandom(1490)
 
 os.system("clear")
 os.system("figlet SniperDos")
-print
-print "            By      Anubhav Kashyap"
+print "Author    : Anubhav Kashyap"
 print "github   : https://github.com/anubhavanonymous"
 print "Instagram : https://www.instagram.com/anubhavanonymous"
-print
+print "No technology that's connected to the internet is unhackable"
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
 
