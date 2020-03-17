@@ -28,15 +28,15 @@ port = input("Port       : ")
 
 os.system("clear")
 os.system("figlet Starting SniperDos")
-print "[                      ] working "
+print "working "
 time.sleep(5)
-print "[→→→→                ] 35% Done "
+print "35% Done "
 time.sleep(5)
-print "[→→→→→→→→         ] 56% Done"
+print "56% Done"
 time.sleep(5)
-print "[→→→→→→→→→→      ] 78% Done"
+print "78% Done"
 time.sleep(5)
-print "[→→→→→→→→→→→→→→] 100% Done"
+print "100% Done"
 time.sleep(3)
 sent = 0
 while True:
