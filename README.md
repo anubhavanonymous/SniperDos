@@ -6,7 +6,8 @@ Usage : SniperDos
 requirements : python2 , python ,figlet 
 clone using this url : https://github.com/anubhavanonymous/SniperDos
 Give executable permission
-Launch the SniperDos.py script with python3
+Launch the SniperDos.py script with python2
 It will ask you for the website's IP Address ..
 You can get the IP by ping (website name)
+Enter port no. 4444
 Enjoy !!🌸
