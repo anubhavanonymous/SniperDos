@@ -18,23 +18,30 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet SniperDos")
+
+print "   ____     _              ___  ____  ____"
+print "  / __/__  (_)__  ___ ____/ _ \/ __ \/ __/"
+print " _\ \/ _ \/ / _ \/ -_) __/ // / /_/ /\ \  "
+print "/___/_//_/_/ .__/\__/_/ /____/\____/___/  "
+print "          /_/                             "
+print "--------------------------------------------------------"
 print "Author    : Anubhav Kashyap"
 print "github   : https://github.com/anubhavanonymous"
 print "Instagram : https://www.instagram.com/anubhavanonymous"
-print "No technology that's connected to the internet is unhackable"
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
 
 os.system("clear")
-os.system("figlet Starting SniperDos")
+os.system("figlet Starting server")
 print "working "
 time.sleep(5)
 print "35% Done "
 time.sleep(5)
-print "56% Done"
+print "55% Done"
 time.sleep(5)
 print "78% Done"
+time.sleep(5)
+print "89% Done"
 time.sleep(5)
 print "100% Done"
 time.sleep(3)
