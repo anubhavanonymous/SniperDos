@@ -1,5 +1,5 @@
 A Denial of Service (DoS) attack is an attempt to make an online service unavailable
-     ⚠️This tool is not made to harm anyone ⚠️
+     This tool is not made to harm anyone ⚠️
 
 Usage : SniperDos
 --------------------------------------------------
