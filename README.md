@@ -6,5 +6,5 @@ Usage : SniperDos
 Launch the SniperDos.py script with python2
 It will ask you for the website's IP Address ..
 You can get the IP by ping (website name)
-Enter port no. 4444 (enter any port number 
+Enter port no. 4444 (you can enter any port number)
 Enjoy !!🌸
